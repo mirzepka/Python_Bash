@@ -1,0 +1,18 @@
+<txt>
+<note>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+</note><note>
+  <to>Jove</to>
+  <from>Tonii</from>
+  <heading>Accept</heading>
+  <body>Hello</body>
+</note><note>
+  <to>Mole</to>
+  <from>Dole</from>
+  <heading>Reject</heading>
+  <body>Bye</body>
+</note>
+</txt>

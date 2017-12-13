@@ -1,0 +1,2 @@
+ls /dev | wc -l
+
